@@ -1,0 +1,5 @@
+Hello World!
+
+This is just a test file to make sure that I know how to commit things to the project solely through VS Code!
+
+-Peace!

@@ -7,7 +7,7 @@ public class coord
 	{
 		x = setX;
 		y = setY;
-
+		z = setZ;
 	}
 }
 
